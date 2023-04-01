@@ -39,5 +39,6 @@ const styles = StyleSheet.create({
     position: "relative",
     flex: 1,
     backgroundColor: "#fff",
+    fontFamily: "Roboto-Regular",
   },
 });

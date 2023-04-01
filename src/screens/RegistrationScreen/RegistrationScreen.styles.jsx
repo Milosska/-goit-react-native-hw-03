@@ -35,7 +35,7 @@ export default styles = StyleSheet.create({
   pageHeader: {
     alignSelf: "center",
     marginBottom: 32,
-    fontWeight: 500,
+    fontFamily: "Roboto-Medium",
     fontSize: 30,
     lineHeight: 35,
   },
